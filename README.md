@@ -9,4 +9,6 @@ Short lessons on optimization and the calculus behind it, from [ProvenDecisions]
 
 More lessons, the glossary and the solver: [Learn](https://proven-decisions.ai/learn?ref=github) · [Refreshers](https://proven-decisions.ai/refreshers?ref=github) · [Glossary](https://proven-decisions.ai/glossary?ref=github). Runnable examples: [optimization-examples](https://github.com/ProvenDecisions/optimization-examples).
 
+💬 Questions about a lesson? Ask in [ProvenDecisions Discussions](https://github.com/orgs/ProvenDecisions/discussions).
+
 Text under [CC BY 4.0](LICENSE-TEXT.md): reuse it with credit to ProvenDecisions and a link.
